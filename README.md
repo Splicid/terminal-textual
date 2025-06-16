@@ -25,11 +25,4 @@ This project is a Textual-based terminal application that displays current time 
    ```sh
    pipenv install
 
-
-   rich-terminal/
-├── [main.py](http://_vscodecontentref_/0)
-├── Pipfile
-├── [Pipfile.lock](http://_vscodecontentref_/1)
-├── [README.md](http://_vscodecontentref_/2)
-└── css/
-    └── [vertical_layout.tcss](http://_vscodecontentref_/3)
+   pipenv run python main.py
